@@ -19,7 +19,7 @@ Working together
 karrerjon@gmail.com
 
 - ⚡ Fun fact: ...
-I use to be a chef and run my own food business.
+I use to be a cook/chef
 
 ### Working on soon...
 
