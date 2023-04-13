@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-A rust http client that pretty prints headers.
+A Rust bases trading bot runnin gon a chron job
 
 - 🌱 I’m currently learning ...
 Rust, CLI, and Linux
