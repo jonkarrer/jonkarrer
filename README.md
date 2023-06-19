@@ -1,23 +1,34 @@
-### Hi there 👋
+# 👋 Hello, World! I'm Jon, a fellow space traveler.
 
-- 🔭 I’m currently working on ...
-A Rust bases trading bot runnin gon a chron job
+[![website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jonkarrer.com/)
+[![Linkedin: YourLinkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
+[![GitHub YourGithub](https://img.shields.io/github/followers/yourGithub?label=follow&style=social)](https://github.com/jonkarrer)
 
-- 🌱 I’m currently learning ...
-Rust, CLI, and Linux
+## 👀 About Me
 
-- 👯 I’m looking to collaborate on ...
-Javascript, Php, Rust applications
+I'm a **Problem Solver** passionate about software engineering and learning what makes solutions great.
 
-- 🤔 I’m looking for help with ...
-Trading Bots
+- 📚 Learning about **Finance, Full Stack Architecture, and Designing Systems**
+- 🎯 2023 Goal: Contribute/Create Open Source projects
 
-- 💬 Ask me about ...
-Working together
+## 🔧 Technologies & Tools
 
-- 📫 How to reach me: ...
-karrerjon@gmail.com
+```bash
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-- ⚡ Fun fact: ...
-I use to be a cook/chef
 
+## 🏆 Github Stats
+
+[![Your's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonkarrer&show_icons=true&theme=radical)](https://github.com/jonkarrer/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkarrer&layout=compact&theme=radical)](https://github.com/jonkarrer/github-readme-stats)
+
+## 📫 Get in touch
+
+- Personal Site - [yourwebsite.com](https://jonkarrer.com/)
+- LinkedIn - [Jon Karrer](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
+- Email - karrerjon@gmail.com
