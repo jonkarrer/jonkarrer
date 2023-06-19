@@ -10,7 +10,7 @@ Rust, CLI, and Linux
 Javascript, Php, Rust applications
 
 - 🤔 I’m looking for help with ...
-Designs
+Trading Bots
 
 - 💬 Ask me about ...
 Working together
@@ -28,10 +28,4 @@ Create a trading bot with Rust and the Alpaca api.
 
 #### Meal Prep Software
 An app that allows users to create recipes, meal plans, and pantry management.
-
-#### Personal Helper Tools
-Some tools that will help simplify some daily tasks
-
-#### AI App
-An app that interfaces with OpenAI models
 
