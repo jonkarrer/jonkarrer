@@ -21,11 +21,3 @@ karrerjon@gmail.com
 - ⚡ Fun fact: ...
 I use to be a cook/chef
 
-### Working on soon...
-
-#### Stock Trading Bot
-Create a trading bot with Rust and the Alpaca api.
-
-#### Meal Prep Software
-An app that allows users to create recipes, meal plans, and pantry management.
-
