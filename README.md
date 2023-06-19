@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Jon, a fellow space traveler.
+# Hello Fellow Space Travelers.
 
 [![website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jonkarrer.com/)
 [![Linkedin: YourLinkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
@@ -19,7 +19,7 @@ I'm a **Problem Solver** passionate about software engineering and learning what
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-
+```
 
 ## 🏆 Github Stats
 
