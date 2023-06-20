@@ -21,8 +21,6 @@
 
 <br>
 
-
-
 <p float="left" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jonkarrer&theme=tokyonight">
   <br><br></p>
