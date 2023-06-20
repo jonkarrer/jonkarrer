@@ -1,5 +1,5 @@
 <h1 align="center">
- Hello Fellow Space Travelers.
+ Hello Fellow Space Travelers
 </h1>
  <p align="center">
  I'm a problem solver, exploring software and learning what makes solutions great
@@ -30,8 +30,6 @@
 <img src="https://metrics.lecoq.io/jonkarrer?template=classic&languages=1&lines=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York" width="100%"/>
 
 
-<br>
-
 <div align="center">
   
 | Using |
@@ -47,6 +45,8 @@
 | ![](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white&color=0b7261) ![Typescript](https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=linux&logoColor=white) ![MongoDB](https://img.shields.io/badge/Neovim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
 </div>
+
+<p align="center">Thanks to <a href="https://github.com/WillDev12">WillDev12</a> for the theme inspiration</p>
 
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
