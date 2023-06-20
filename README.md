@@ -14,21 +14,7 @@ I'm a **Problem Solver** passionate about software engineering and learning what
 | ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
 
 </div>
-
-
-## 🏆 Github Stats
-
-[![Your's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonkarrer&show_icons=true&theme=radical)](https://github.com/jonkarrer/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkarrer&layout=compact&theme=radical)](https://github.com/jonkarrer/github-readme-stats)
-
-## 📫 Get in touch
-
-- Personal Site - [jonkarrer.com](https://jonkarrer.com/)
-- LinkedIn - [Jon Karrer](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
-- Email - karrerjon@gmail.com
   
-
 <br>
 
 
@@ -46,7 +32,10 @@ I'm a **Problem Solver** passionate about software engineering and learning what
 <br>
     
 <p align="center">
- <img src="https://metrics.lecoq.io/jonkarrer?template=classic&languages=1&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York" />
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonkarrer&layout=compact&theme=radical)](https://github.com/jonkarrer/github-readme-stats)
+
+ <img src=" https://metrics.lecoq.io/jonkarrer?template=classic&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York" />
 </p>
 
 
@@ -55,7 +44,13 @@ I'm a **Problem Solver** passionate about software engineering and learning what
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WillDev12&theme=tokyo-night">
 </p>
 
+## 📫 Get in touch
+
+- Personal Site - [jonkarrer.com](https://jonkarrer.com/)
+- LinkedIn - [Jon Karrer](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
+- Email - karrerjon@gmail.com
 <br><br>
+
     
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
 
