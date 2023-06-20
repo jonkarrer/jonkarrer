@@ -2,7 +2,7 @@
  Hello Fellow Space Travelers
 </h1>
  <p align="center">
- I'm a problem solver, exploring software and learning what makes solutions great
+ I'm a problem solver exploring software and learning what makes solutions great
 </p>
 
 <div align="center">
