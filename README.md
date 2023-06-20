@@ -19,22 +19,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=435&lines=Think;Build;Learn;Repeat;" alt="Typing SVG" /></a>
 </p>
 
+<br>
+
 
 
 <p float="left" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jonkarrer&theme=tokyonight">
   <br><br></p>
-<br>
+<br><br>
 
-<p align="center">
-<img src="https://metrics.lecoq.io/jonkarrer?template=classic&languages=1&lines=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FNew_York" width="100%"></img></p>
-   
-    
-## 📫 Get in touch
 
-- Personal Site - [jonkarrer.com](https://jonkarrer.com/)
-- LinkedIn - [Jon Karrer](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
-- Email - karrerjon@gmail.com
+<img src="https://metrics.lecoq.io/jonkarrer?template=classic&languages=1&lines=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=html%2Ccss&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FNew_York" width="100%"/>
+
 
 <br>
 
