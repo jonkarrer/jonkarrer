@@ -34,24 +34,21 @@ I'm a **Problem Solver** passionate about software engineering and learning what
 
 <p float="left" align="center">
 
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/followers/WillDev12?style=for-the-badge&logo=github">
-  <a href="https://github.com/WillDev12">
-    <img src="https://img.shields.io/github/stars/WillDev12?style=for-the-badge&logo=git">
-  <a href="https://github.com/WillDev12/WillDev12">
-    <img src="https://img.shields.io/github/watchers/WillDev12/WillDev12?style=for-the-badge&logo=git">
+  <a href="https://github.com/jonkarrer">
+    <img src="https://img.shields.io/github/followers/jonkarrer?style=for-the-badge&logo=github">
+  <a href="https://github.com/jonkarrer">
+    <img src="https://img.shields.io/github/stars/jonkarrer?style=for-the-badge&logo=git">
+  <a href="https://github.com/WillDev12/jonkarrer">
+    <img src="https://img.shields.io/github/watchers/WillDev12/jonkarrer?style=for-the-badge&logo=git">
 
 </p><br><br>
 
-<p float="left" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WillDev12&theme=tokyonight">
-  <br><br></p>
 <br>
     
 
-<p align="center">
+<div align="center">
 ![Metrics](https://metrics.lecoq.io/jonkarrer?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
-</p>
+</div>
     
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WillDev12&theme=tokyo-night">
