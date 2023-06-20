@@ -30,17 +30,9 @@ I'm a **Problem Solver** passionate about software engineering and learning what
 - Personal Site - [jonkarrer.com](https://jonkarrer.com/)
 - LinkedIn - [Jon Karrer](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
 - Email - karrerjon@gmail.com
-
-- 
-<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg" width="100%">
   
 
 <br>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&center=true&width=435&lines=A+wise+man+once+said%3A;%22Developing+is+fun!%22" alt="Typing SVG" /></a>
-</p>
-
 
 
 <p float="left" align="center">
