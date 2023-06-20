@@ -1,5 +1,7 @@
 # Hello Fellow Space Travelers.
 
+I'm a **Problem Solver** passionate about software engineering and learning what makes solutions great.
+
  <div align="center">
 
 | My Languages, Hosters, & Databases |
@@ -12,15 +14,6 @@
 | ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)|
 
 </div>
-
-
-
-## 👀 About Me
-
-I'm a **Problem Solver** passionate about software engineering and learning what makes solutions great.
-
-- 📚 Learning about **Finance, Full Stack Architecture, and Designing Systems**
-- 🎯 2023 Goal: Contribute/Create Open Source projects
 
 
 ## 🏆 Github Stats
@@ -57,7 +50,8 @@ I'm a **Problem Solver** passionate about software engineering and learning what
     
 
 <p align="center">
-<img src="https://metrics.lecoq.io/WillDev12?template=classic&languages=1&achievements=1&repositories=1&code=1&stars=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&repositories=false&repositories.featured=MLA-Helper%2C%20WillDev12%2FMLA-Helper&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&config.timezone=America%2FNew_York" width="100%"></img></p>
+![Metrics](https://metrics.lecoq.io/jonkarrer?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FNew_York)
+</p>
     
 <p float="left" align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=WillDev12&theme=tokyo-night">
