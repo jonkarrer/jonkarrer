@@ -30,7 +30,7 @@
   
 | Using |
 | :----: |
-| ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white&color=0073ec) ![](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=000&color=61dafb) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Bun-000.svg?style=for-the-badge&logo=bun&logoColor=white)|
+| ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white&color=0b7261) ![](https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white&color=0073ec) ![](https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=000&color=61dafb) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![](https://img.shields.io/badge/Bun-000.svg?style=for-the-badge&logo=bun&logoColor=white)|
  
 </div>
 
@@ -38,7 +38,7 @@
  
 | Learning |
 | :----: |
-| ![](https://img.shields.io/badge/Rust-007ACC?style=for-the-badge&logo=rust&logoColor=white&color=0b7261) ![Typescript](https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=linux&logoColor=white) ![MongoDB](https://img.shields.io/badge/Neovim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
+| ![Typescript](https://img.shields.io/badge/Linux-007ACC?style=for-the-badge&logo=linux&logoColor=white) ![MongoDB](https://img.shields.io/badge/Neovim-%234ea94b.svg?style=for-the-badge&logo=neovim&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|
 
 </div>
 
