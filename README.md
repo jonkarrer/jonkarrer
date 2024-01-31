@@ -42,8 +42,6 @@
 
 </div>
 
-<p align="center">Thanks to <a href="https://github.com/WillDev12">WillDev12</a> for the theme inspiration</p>
-
 
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_down.svg">
 
