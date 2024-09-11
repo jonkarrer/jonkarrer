@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://jonkarrer.com/)
+[![website](https://img.shields.io/badge/Portfolio-Website-green?style=flat&logo=google-chrome)](https://me.shuttleapp.rs/)
 [![Linkedin: YourLinkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jon-karrer-6b8a18186/)
 [![GitHub YourGithub](https://img.shields.io/github/followers/yourGithub?label=follow&style=social)](https://github.com/jonkarrer)
 
