@@ -1,6 +1,6 @@
- <p align="center">
+ <h2 align="center">
  Much to learn, much to do, not much time.
-</p>
+</h2>
 
 <div align="center">
 
