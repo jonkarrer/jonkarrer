@@ -1,8 +1,5 @@
-<h1 align="center">
- Hello Fellow Space Travelers
-</h1>
  <p align="center">
- I'm a problem solver exploring software and learning what makes a solution great.
+ Much to learn, much to do, not much time.
 </p>
 
 <div align="center">
